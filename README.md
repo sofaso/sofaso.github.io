@@ -19,9 +19,9 @@
 
 <li> <a href="songs/sunsong.html"> One 第一首歌 </a> </li>
 
-<li> Two </li> 
+<li> Two 第二首歌</li> 
 
-<img src="/images/one.JPG">
+
 
 </ul>
 
@@ -39,6 +39,7 @@
 	
 	</ol>
 
+	<img src="/images/one.JPG">
 
 </body>
 
