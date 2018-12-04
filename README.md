@@ -21,7 +21,7 @@
 
 <li> Two </li> 
 
-<img scr="/images/one.jpg">
+<img src="/images/one.jpg">
 
 </ul>
 
