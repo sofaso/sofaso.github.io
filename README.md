@@ -19,7 +19,7 @@
 
 <li> <a href="songs/sunsong.html"> One 第一首歌 </a> </li>
 
-<li> Two 第二首歌</li> 
+<li> <a href="songs/springsong.html">Two 第二首歌</a> </li> 
 
 
 
@@ -39,6 +39,22 @@
 	
 	</ol>
 
+	 <ol>
+	 <p> 春天在哪里呀  </p>
+
+     <p> 春天在哪里呀 </p>
+	 
+	 <p> 春天在那青翠的山林里</p> 
+     
+    <p> 这里有红花呀</p> 
+	
+<p> 还有那会唱歌的小黄鹂</p>
+	
+	
+<p> 嘀哩哩哩哩嘀哩哩嘀哩哩哩哩哩</p>
+
+<p> 嘀哩哩哩哩嘀哩哩嘀哩哩哩哩哩</p>
+	</ol>
 	<img src="/images/one.JPG">
 
 </body>
