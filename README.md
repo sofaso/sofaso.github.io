@@ -61,7 +61,7 @@
 	
 	<h3> 图片欣赏 </h3>
 	
-	<img src="/images/one.JPG">
+	<img src="/images/one.jpg">
 
 </body>
 
